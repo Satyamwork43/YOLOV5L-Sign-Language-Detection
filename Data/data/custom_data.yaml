@@ -1,0 +1,7 @@
+
+train: ../new_data/images/train/  
+val: ../new_data/images/val/
+
+# Classes
+nc: 5  # number of classes
+names: ['Hello','Yes','No','Thank You','I Love You']  # class names
