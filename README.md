@@ -1,35 +1,38 @@
 # Sign-Language-Detection Using yolov5l
 
 
-https://user-images.githubusercontent.com/78307104/132888156-a6c67855-08ab-4815-8a01-30290b99b11e.mp4
+
+https://user-images.githubusercontent.com/78307104/132891392-11311a23-52d8-4f93-a35e-696295d52cb0.mp4
 
 
-#Introduction
+
+
+# Introduction
 
 why to build sign language detection??
 Sign language recognition refers to the conversion of these gestures into words or alphabets of existing formally spoken languages. Thus, conversion of sign language into words by an algorithm or a model can help bridge the gap between people with hearing or speaking impairment and the rest of the world
 
-#what you can use sign language for??
+# what you can use sign language for??
 
 Although signing is used primarily by the deaf and hard of hearing, it is also used by hearing individuals, such as those unable to physically speak, those who have trouble with spoken language due to a disability or condition (augmentative and alternative communication), or those with deaf family members
 
 
 
-#Steps
+# Steps
 1-First of all i would like to tell in this sign language i have trained my model on only 5 sign That is
-#Thank You
+# Thank You
 ![image](https://user-images.githubusercontent.com/78307104/132890836-984a91c0-610c-4335-bb78-15d93bceba93.png)
 
-#Hello
+# Hello
 ![image](https://user-images.githubusercontent.com/78307104/132891017-8c69e33c-c444-40c7-a290-b56a12820833.png)
 
-#Yes
+# Yes
 ![image](https://user-images.githubusercontent.com/78307104/132891077-f4e92b46-58b1-4452-969f-940ddc93ae54.png)
 
-#No
+# No
 ![image](https://user-images.githubusercontent.com/78307104/132891123-8acf0e35-d41d-406a-a703-285ef419f61c.png)
 
-#I Love You
+# I Love You
 ![image](https://user-images.githubusercontent.com/78307104/132891201-658aab41-d7ff-4038-83cf-be68b1b3f072.png)
 
 2-I have collected data for these images and then apply data augmentation on that to increase the size of my input images.
